@@ -2,5 +2,3 @@
 
 yeah
 
-## myBranch
-yeah 2
